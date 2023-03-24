@@ -18,4 +18,5 @@ This project converts image or video to cartoon using image processing.
 
 ### Video
 
-![video](./assets/video.mov)
+https://user-images.githubusercontent.com/15193055/227450098-d7e6a9b4-015b-4262-a931-3d2b656faabe.mov
+
